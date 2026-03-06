@@ -167,8 +167,8 @@ The Proteus schematic includes:
 * Push buttons with pull-up resistors
 * Status LEDs
 * Virtual Terminal for UART monitoring
-
-![Schematic](Proteus.png)
+  
+<img width="1070" height="841" alt="Schematic" src="https://github.com/user-attachments/assets/e52893ad-7e38-49a9-925b-48d57a5279e4" />
 
 ---
 
