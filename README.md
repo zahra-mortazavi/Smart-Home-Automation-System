@@ -300,11 +300,10 @@ Planned enhancements:
 
 ---
 
-
 ## 🎓 Academic Context
 
 Developed as part of a **Microprocessor course**
 
 📅 Fall 2024
 
----.
+---
